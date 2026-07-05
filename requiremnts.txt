@@ -1,7 +1,0 @@
-streamlit
-Groq
-PyPDF2
-python-dotenv
-
-
-
